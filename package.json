@@ -1,0 +1,16 @@
+{
+  "name": "josoroma",
+  "version": "1.0.0",
+  "description": "Josoroma - Hacker",
+  "author": "Josoroma",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "josoroma",
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
